@@ -1,4 +1,4 @@
-# colouredballs_probability_calculator
+# Coloured Balls probability calculator
 ### Assignment
 
 Suppose there is a box containing 4 white balls, 2 yellow balls, and 5 black balls. What is the probability that a random draw of 8 balls will contain at least 3 white balls and 1 yellow ball? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.
